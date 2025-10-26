@@ -1,0 +1,3 @@
+[submodule "crappy-bird"]
+	path = crappy-bird
+	url = https://github.com/swhyeon90/crappy-bird
